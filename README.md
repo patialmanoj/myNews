@@ -1,0 +1,2 @@
+# myNews
+a small website 
